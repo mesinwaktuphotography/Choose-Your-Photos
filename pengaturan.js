@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Mesin Waktu",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAwbg37ho16ten0iX-_t_4j7tcwQrIQiyg",
     whatsappAdmin: "6282240004956" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
